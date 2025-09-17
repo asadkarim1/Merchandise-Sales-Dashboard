@@ -6,7 +6,7 @@ This project features an interactive merchandise sales dashboard that provides a
 - [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzJlNTZkMWUtMTc3MC00NjYwLWFiMDUtNDVmYmU0NWFiYjU4IiwidCI6IjA5YmFlYWU1LWVhZTAtNGZhOC1hMTliLWU2NjBkOWM1NzEwOCIsImMiOjl9)
    
 ## Project Files
-- View dashboard PDF: [Open PDF](https://github.com/asadkarim1/Merchandise-Sales-Dashboard/blob/main/Merchandise%20Sales%20Dashboard.pdf)
+- View dashboard PDF: [Open PDF](https://github.com/asadkarim1/Merchandise-Sales-Dashboard/blob/main/Merchandise%20Sales%20Dash.pdf)
 - Download dataset: [Merchandise Sales Dataset.xlsx](https://github.com/asadkarim1/Merchandise-Sales-Dashboard/blob/main/Merchandise%20Sales%20Dataset.xlsx)
 ## Key Features
 
